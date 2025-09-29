@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Reem Algethami
 
-<!--
-**ReemAlgethami/ReemAlgethami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineer  
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems  
+📊 Experienced in Data Analysis and Technical Training  
+🎨 Creative thinker who loves turning ideas into real-world applications  
+💡 Always seeking opportunities to learn, grow, and contribute to impactful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-8A2BE2?logo=arduino&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FF4500?logo=powerbi&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎯 Current Focus / Goals
+- Deepening expertise in AI, Machine Learning, Deep Learning, and Computer Vision  
+- Exploring Embedded Systems applications and IoT projects  
+- Enhancing data analysis skills and technical training capabilities  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Reem Algethami](https://www.linkedin.com/in/reem-algethami-245800316)  
+- GitHub: [USERNAME](https://github.com/USERNAME)  
+- Email: your-email@example.com  
