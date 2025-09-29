@@ -1,8 +1,7 @@
-# Hi there 👋 I'm Reem Algethami
+# Hi there 👋 I'm Eng.Reem Algethami
 
 💻 Computer Engineer  
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems  
-📊 Experienced in Data Analysis and Technical Training  
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems   
 🎨 Creative thinker who loves turning ideas into real-world applications  
 💡 Always seeking opportunities to learn, grow, and contribute to impactful projects  
 
@@ -21,8 +20,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReemAlgethami&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReemAlgethami&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -35,5 +34,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Reem Algethami](https://www.linkedin.com/in/reem-algethami-245800316)  
-- GitHub: [USERNAME](https://github.com/USERNAME)  
-- Email: your-email@example.com  
+- GitHub: [USERNAME](https://github.com/ReemAlgethami)  
+- Email: reem525979@gmail.com  
