@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Eng.Reem Algethami
+# Hi👋 I'm Eng.Reem Algethami
 
 💻 Computer Engineer  
 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems   
