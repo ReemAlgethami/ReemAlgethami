@@ -34,5 +34,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [Reem Algethami](https://www.linkedin.com/in/reem-algethami-245800316)  
-- GitHub: [USERNAME](https://github.com/ReemAlgethami)  
+- GitHub: [ReemAlgethami](https://github.com/ReemAlgethami)  
 - Email: reem525979@gmail.com  
